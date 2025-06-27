@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a48d89e.css",
+    "main.js": "/static/js/main.c0461b74.js",
+    "static/js/787.62449090.chunk.js": "/static/js/787.62449090.chunk.js",
+    "static/media/banner_1.png": "/static/media/banner_1.b5a7a4b8e14f365393be.png",
+    "static/media/logo.png": "/static/media/logo.7a51a12202d91caaae49.png",
+    "static/media/terreno.png": "/static/media/terreno.3b27049e110577cbaa04.png",
+    "static/media/beneficios.png": "/static/media/beneficios.673219840bf7e0d42831.png",
+    "static/media/semillas.png": "/static/media/semillas.97f63d7c7285c70530fc.png",
+    "static/media/soja.png": "/static/media/soja.0125f550627ad9ab7ede.png",
+    "static/media/abono.png": "/static/media/abono.2dbc13f65995c5e7ee3a.png",
+    "static/media/problematica.png": "/static/media/problematica.a7db85fcc2e3ca842786.png",
+    "static/media/maiz.png": "/static/media/maiz.5292f966b205d75767f0.png",
+    "static/media/aplanadora.png": "/static/media/aplanadora.53995405afd1c3ff4a6b.png",
+    "static/media/trigo.png": "/static/media/trigo.51d811bd1dc8eaca35d3.png",
+    "static/media/siembra.png": "/static/media/siembra.e7566f936e9bdfc237f6.png",
+    "static/media/hierbas.png": "/static/media/hierbas.22c89fffa97d0ac8c5d8.png",
+    "static/media/cultivo.png": "/static/media/cultivo.ad2b9a09ae4750438118.png",
+    "static/media/ceci.png": "/static/media/ceci.d8e3920f0b7ebf3e4872.png",
+    "static/media/fran.png": "/static/media/fran.ba23105102594198f17f.png",
+    "static/media/tom.png": "/static/media/tom.6ee7fba850375ba25c76.png",
+    "static/media/nico.png": "/static/media/nico.66153e7d1660f3c5a38d.png",
+    "index.html": "/index.html",
+    "main.3a48d89e.css.map": "/static/css/main.3a48d89e.css.map",
+    "main.c0461b74.js.map": "/static/js/main.c0461b74.js.map",
+    "787.62449090.chunk.js.map": "/static/js/787.62449090.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a48d89e.css",
+    "static/js/main.c0461b74.js"
+  ]
+}
